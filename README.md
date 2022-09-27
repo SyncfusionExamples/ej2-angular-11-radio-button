@@ -30,11 +30,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Radio Button label
 
-The [label](https://ej2.syncfusion.com/angular/documentation/radio-button/label-and-size/#label) used to define the Angular Radio Button caption. You can caption the radio button and position the label either before or after the radio button.
+The [label](https://ej2.syncfusion.com/angular/documentation/radio-button/label-and-size/#label?utm_source=github&utm_medium=listing&utm_campaign=angular-radio-button-github-samples) used to define the Angular Radio Button caption. You can caption the radio button and position the label either before or after the radio button.
 
 ## Radio Button Sizes
 
-You can make use of the different [sizes](https://ej2.syncfusion.com/angular/documentation/radio-button/label-and-size/#size) of radio button (default and small) as required in your application.
+You can make use of the different [sizes](https://ej2.syncfusion.com/angular/documentation/radio-button/label-and-size/#size?utm_source=github&utm_medium=listing&utm_campaign=angular-radio-button-github-samples) of radio button (default and small) as required in your application.
 
 ## Radio Button group
 
